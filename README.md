@@ -11,9 +11,11 @@ A UE5 prototype project focused on Multiplayer Carpenter Game.
 - Random Item Order List
 - Item Production
 - Item Paint
-- Sell Item to earn money (Order List must match with sold item to earn moeny)
+- Sell Item to earn money (Order List must match with sold item to earn money)
+
 **Documentation:**
 - Included in the project folder / release package.
+
 **Download:**
 - Available from the Releases section.
 ---
