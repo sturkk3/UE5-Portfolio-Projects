@@ -8,9 +8,10 @@ A collection of my Unreal Engine 5 gameplay prototypes, project documentation, a
 A UE5 prototype project focused on Multiplayer Carpenter Game.
 **Engine Version:** Unreal Engine 5.7
 **Main Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Random Item Order List
+- Item Production
+- Item Paint
+- Sell Item to earn money (Order List must match with sold item to earn moeny)
 **Documentation:**
 - Included in the project folder / release package.
 **Download:**
