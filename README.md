@@ -20,6 +20,7 @@ A UE5 prototype project focused on Multiplayer Carpenter Game.
 - Available from the Releases section.
 ---
 ## Usage / License
-These projects are shared publicly for portfolio review purposes only.
-You may download and inspect the projects, but you may not redistribute, resell, modify, or use their code/assets in personal or commercial projects without written permission from the author.
+The original code and Blueprint logic in these projects may be used freely for personal or commercial purposes.
+Third-party assets, plugins, Marketplace/FAB content, sounds, textures, models, and animations are not covered by this permission and remain subject to their original licenses.
+These projects are shared mainly for portfolio and learning purposes.
 
