@@ -5,7 +5,7 @@ A collection of my Unreal Engine 5 gameplay prototypes, project documentation, a
 
 # Projects
 ### 1 - MP Carpenter
-A UE5 prototype project focused on Multiplayer Carpenter Game.
+A UE5 prototype project focused on Multiplayer Carpenter Game. (No C++ codes, only Blueprint.)
 **Engine Version:** Unreal Engine 5.7
 **Main Features:**
 - Random Item Order List
