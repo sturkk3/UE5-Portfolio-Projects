@@ -18,6 +18,22 @@ A UE5 prototype project focused on Multiplayer Carpenter Game. (No C++ codes, on
 
 **Download:**
 - Available from the Releases section.
+
+### 2 - SP InventorySystem
+A UE5 prototype project focused on a Single Player Inventory System. (No C++ code, only Blueprint.)
+**Engine Version:** Unreal Engine 5.6
+**Main Features:**
+- Inventory System
+- Item Pickup
+- Item Storage
+- Item Interaction
+- Blueprint-based implementation
+
+**Documentation:**
+- Included in the project folder / release package.
+
+**Download:**
+- Available from the Releases section.
 ---
 ## Usage / License
 The original code and Blueprint logic in these projects may be used freely for personal or commercial purposes.
