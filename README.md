@@ -56,6 +56,23 @@ A Blueprint-only prototype that for Single Player saves and restores player stat
 **Download:**
 - Available from the Releases section.
 
+### 4 - SP DamageSystem
+A single-player prototype that uses a reusable C++ component for damage and health logic, with Blueprint examples in a playable editor demo. (C++ & Blueprint.)
+C++ files can be seen in "main" branch under folder "SP_DamageSystem/Source".
+
+**Engine Version:** Unreal Engine 5.6
+
+**Main Features:**
+- Processes damage, healing, blocking, invincibility, and death in C++.
+- Exposes damage and healing functions through a Blueprint-callable interface and broadcasts events that Blueprints can respond to.
+- Demonstrates integration with player and enemy character Blueprints and a standalone Actor "BP_Cube".
+
+**Documentation:**
+- Included in the project folder / release package.
+
+**Download:**
+- Available from the Releases section.
+
 ---
 ## Usage / License
 The original code and Blueprint logic in these projects may be used freely for personal or commercial purposes.
