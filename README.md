@@ -51,7 +51,7 @@ A Blueprint-only prototype that for Single Player saves and restores player stat
 - Use placeholder weapon meshes to see which weapon is restored after loading.
 
 **Documentation:** 
-The ZIP includes "SaveLoadSystem_Documentation.docx" with controls and implementation details.
+- Included in the project folder / release package.
 
 **Download:**
 - Available from the Releases section.
